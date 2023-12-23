@@ -18,6 +18,6 @@ The game has the following features:
 6. There’re three levels of difficulty. The enemy appearance, enemy health will change accordingly; for the final level, enemy will be able to shoot bullets.
 7. There are bonus round after you finish a certain round, where there’s a bonus for you to catch to gain scores.
 8. If the player survived the final round, they will be in the ultimate level, where a bonus will appearing randomly on the screen. If they manage to catch it, they won. Or they will be challenging level 3 again.
-9. You can use the ultrasonic sensor to pause the game by decreasing the distance; while in pause mode, you can freely change any characters that you like.
+9. You can use the ultrasonic sensor to pause the game by decreasing the distance; while in pause mode, you can freely change any characters that you like.
 10. Scores will be displayed on the screen all the way till the end of the game. Once the game ends, your score will be automatically sent to the upper computer.
 11. There’s a welcome page at the beginning of the game. There will be page to indicate which level are you in once you’re about to level up. Also, there will be an ending page to tell your total scores.
