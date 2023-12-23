@@ -3,11 +3,11 @@
 #define LCD_Command_Dir		DDRB
 #define LCD_Data_Port		PORTD
 #define LCD_Command_Port	PORTB
-#define RS					PORTB2
-#define RW					PORTB3
-#define EN					PORTB4
-#define TRIGGER_PIN			PORTB5
-#define ECHO_PIN			PORTB0
+#define RS			PORTB2
+#define RW			PORTB3
+#define EN			PORTB4
+#define TRIGGER_PIN		PORTB5
+#define ECHO_PIN		PORTB0
 #define INTERRUPT_PIN		PORTC0
 
 #include <avr/io.h>
