@@ -5,5 +5,6 @@ This repository is created for the Embedded Systems course project in the autumn
 3. Game Content Design
 4. Ultrasonic Distance Measurement
 5. Serial Communication
+6. PWM control for servos
 
 Notably, this project does not utilize the Arduino library. A comprehensive report is available for reference.
